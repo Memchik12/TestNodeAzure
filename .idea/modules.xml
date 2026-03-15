@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AzureNodeDomen.iml" filepath="$PROJECT_DIR$/.idea/AzureNodeDomen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestNodeAzure.iml" filepath="$PROJECT_DIR$/.idea/TestNodeAzure.iml" />
     </modules>
   </component>
 </project>
